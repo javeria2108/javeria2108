@@ -8,7 +8,7 @@
   }
 </style>
 
-<img src="https://your-image-link.com/banner.png" alt="Profile Banner" class="banner">
+<img src="https://i.ibb.co/zGYLbst/JZ-1.png" alt="Profile Banner" class="banner">
 
 ## Hi there! 👋
 
