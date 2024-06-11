@@ -13,17 +13,16 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
 - **Databases:** SQL Server
 
 ### 🔭 Current Projects:
-- **[Project Name](https://github.com/yourusername/project-name):** Brief description of what the project does.
-- **[Another Project](https://github.com/yourusername/another-project):** Brief description of this project.
+- **Instagram clone with React Native(https://github.com/javeria2108/Instagram-Clone-with-React-Native-Firebase-Redux-Expo)
 
 ### 🌱 Learning & Development:
 - Currently learning: TypeScript, .NET, Machine Learning
 - Interested in: Cloud Computing, Space Sciences
 
 ### 📫 Contact Me:
-- **Email:** javeriazh@gmail.com(mailto:your.email@example.com)
-- **LinkedIn:** (https://linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
+- **Email:** javeriazh@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/javeria-zaheer-689b87232/
+- **Twitter:** https://twitter.com/_BeingSkeptic
 
 ### ⚡ Fun Facts:
 - I love watching podcasts, doing exercise and playing problem solving games. 
