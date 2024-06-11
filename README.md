@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://ibb.co/vZGrm1M)
+![Profile Banner](https://i.ibb.co/zGYLbst/JZ-1.png)
 
 ## Hi there! 👋
 
