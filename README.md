@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://i.ibb.co/zGYLbst/JZ-1.png)
+<img src="https://i.ibb.co/zGYLbst/JZ-1.png" alt="Profile Banner" width="1000" height="300">
 
 ## Hi there! 👋
 
