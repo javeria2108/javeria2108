@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 <style>
   .banner {
     width: 100%;
@@ -9,6 +7,9 @@
 </style>
 
 <img src="https://i.ibb.co/zGYLbst/JZ-1.png" alt="Profile Banner" class="banner">
+# Welcome to My GitHub Profile!
+
+
 
 ## Hi there! 👋
 
@@ -21,7 +22,7 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
 - **Databases:** SQL Server
 
 ### 🔭 Current Projects:
-- **Instagram clone with React Native(https://github.com/javeria2108/Instagram-Clone-with-React-Native-Firebase-Redux-Expo)
+- **Instagram clone with React Native**(https://github.com/javeria2108/Instagram-Clone-with-React-Native-Firebase-Redux-Expo)
 
 ### 🌱 Learning & Development:
 - Currently learning: TypeScript, .NET, Machine Learning
