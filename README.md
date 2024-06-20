@@ -28,6 +28,7 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
 ### ⚡ Fun Facts:
 - I love watching podcasts, doing exercise and playing problem solving games. 
 - When I'm not coding, you can find me reading a good book or watching a documentary about space.
+- I started playing League of Legends during COVID-19 but none of my friends agreed to play with me so I left :( I really want to be a good LOL player and find a squad. 
 
 ### 📈 GitHub Stats:
 
