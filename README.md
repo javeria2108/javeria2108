@@ -15,6 +15,7 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
 
 ### 🔭 Current Projects:
 - **Instagram clone with React Native**(https://github.com/javeria2108/Instagram-Clone-with-React-Native-Firebase-Redux-Expo)
+- **.NET Full Stack Task Management App**(https://github.com/javeria2108/Task-Management-System-with-.NET-Typescript-React-and-SQL)
 
 ### 🌱 Learning & Development:
 - Currently learning: TypeScript, .NET, Machine Learning
