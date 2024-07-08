@@ -1,19 +1,17 @@
 # Welcome to My GitHub Profile!
 
-
-
 ## Hi there! 👋
 
 I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub profile where I share my latest projects and ideas.
 
 ### 🛠️ Skills & Technologies:
 - **Languages:** Python, JavaScript, Java, C++, HTML, CSS, C#
-- **Frameworks:** React, Next Js, ASP .NET
+- **Frameworks:** React, Next.js, ASP.NET
 - **Tools:** Git
 - **Databases:** SQL Server
 
 ### 🔭 Current Projects:
-- **.NET Full Stack Task Management App**(https://github.com/javeria2108/Task-Management-System-with-.NET-Typescript-React-and-SQL)
+- [**.NET Full Stack Task Management App**](https://github.com/javeria2108/Task-Management-System-with-.NET-Typescript-React-and-SQL)
 
 ### 🌱 Learning & Development:
 - Currently learning: TypeScript, .NET, Machine Learning
@@ -21,17 +19,21 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
 
 ### 📫 Contact Me:
 - **Email:** javeriazh@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/javeria-zaheer-689b87232/
-- **Twitter:** https://twitter.com/_BeingSkeptic
+- **LinkedIn:** [Javeria Zaheer](https://www.linkedin.com/in/javeria-zaheer-689b87232/)
+- **Twitter:** [@_BeingSkeptic](https://twitter.com/_BeingSkeptic)
 
 ### ⚡ Fun Facts:
-- I love watching podcasts, doing exercise and playing problem solving games. 
+- I love watching podcasts, doing exercise and playing problem solving games.
 - When I'm not coding, you can find me reading a good book or watching a documentary about space.
-- I started playing League of Legends during COVID-19 but none of my friends agreed to play with me so I left :( I really want to be a good LOL player and find a squad. 
+- I started playing League of Legends during COVID-19 but none of my friends agreed to play with me so I left :( I really want to be a good LOL player and find a squad.
 
 ### 📈 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=javeria2108&show_icons=true&theme=radical)
+![Javeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=javeria2108&show_icons=true&theme=radical)
+
+### 📊 Languages Used:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javeria2108&layout=compact&theme=radical)
 
 ### 🔗 Let's Connect!
 
