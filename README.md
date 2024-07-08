@@ -45,7 +45,7 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
 
 ### 📊 Languages Used:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javeria2108&layout=compact&theme=radical&exclude_repo=programming_fundamentals_lab)
+![Top Languages](https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=javeria2108&layout=compact&theme=radical&exclude_repo=programming_fundamentals_lab)
 
 ### 🔗 Let's Connect!
 
