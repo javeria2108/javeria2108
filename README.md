@@ -17,6 +17,7 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
   
   
@@ -24,6 +25,9 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Databases:**
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Neon DB](https://img.shields.io/badge/Neon%20DB-000000?style=flat&logo=neon&logoColor=white)
 
 ### 🔭 Current Projects:
 - [**.ProjectPro-AI**](https://github.com/javeria2108/ProjectPro-AI)
