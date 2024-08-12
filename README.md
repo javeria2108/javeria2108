@@ -17,13 +17,18 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+  
+  
 - **Tools:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Databases:**
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### 🔭 Current Projects:
+- [**.ProjectPro-AI**](https://github.com/javeria2108/ProjectPro-AI)
 - [**.NET Full Stack Task Management App**](https://github.com/javeria2108/Task-Management-System-with-.NET-Typescript-React-and-SQL)
+  
 
 ### 🌱 Learning & Development:
 - Currently learning: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white), ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white), ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white)
