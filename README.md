@@ -28,10 +28,6 @@ I'm Javeria, a coding enthusiast and lifelong learner. Welcome to my GitHub prof
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
   ![Neon DB](https://img.shields.io/badge/Neon%20DB-000000?style=flat&logo=neon&logoColor=white)
-
-### 🔭 Current Projects:
-- [**.ProjectPro-AI**](https://github.com/javeria2108/ProjectPro-AI)
-- [**.NET Full Stack Task Management App**](https://github.com/javeria2108/Task-Management-System-with-.NET-Typescript-React-and-SQL)
   
 
 ### 🌱 Learning & Development:
